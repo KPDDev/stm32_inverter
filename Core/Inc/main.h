@@ -73,8 +73,6 @@ void Error_Handler(void);
 #define voltageBUS_GPIO_Port GPIOA
 #define currentW_Pin GPIO_PIN_4
 #define currentW_GPIO_Port GPIOA
-#define currentINPUT_Pin GPIO_PIN_5
-#define currentINPUT_GPIO_Port GPIOA
 #define currentV_Pin GPIO_PIN_6
 #define currentV_GPIO_Port GPIOA
 #define voltageINPUT_Pin GPIO_PIN_7
